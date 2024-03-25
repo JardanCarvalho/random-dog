@@ -27,10 +27,14 @@ body {
     text-align: center;
 }
 
+.print-image {
+    width: max-content;
+    max-height: 50px;
+}
+
 .display {
     max-width: 100%;
     min-height: 200px;
-    max-height: 7px;
     border-radius: 20px;
     margin: 20px 0; 
 }
