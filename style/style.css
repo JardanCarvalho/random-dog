@@ -27,7 +27,7 @@ body {
     text-align: center;
 }
 
-.print-image {
+.image-printer {
     width: max-content;
     max-height: 50px;
 }
